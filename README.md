@@ -6,7 +6,7 @@ past weather stress. It does not forecast this season.
 > RotateWise supports farmers and extension agents. It does not replace farmer judgment or local agricultural
 > expertise.
 
-Built Nov 14-15, 2026 for **NASA Space Apps (farming challenge)**.
+Built Nov 14-15, 2026 for **Veritas AI (Climate Track)**.
 
 **The app is a static website** (`web/`, React + TypeScript, deploys to Vercel): a guided four-step path
 (Your county → What hurts yields → Your options → Talk it over) plus an Evidence section for judges and agronomists.
